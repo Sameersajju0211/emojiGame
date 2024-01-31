@@ -1,0 +1,12 @@
+/* Write your code here. */
+.button {
+  background-color: #ffffff33;
+  border: 1px solid #ffffff30;
+  border-radius: 15px;
+  padding: 30px ;
+  margin: 10px;
+}
+.emoji-pic {
+  height: 120px;
+  width: 120px;
+}
